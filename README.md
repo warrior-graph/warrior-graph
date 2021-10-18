@@ -2,7 +2,8 @@
 
 [![CoolerVoid's github stats](https://github-readme-stats.vercel.app/api?username=warrior-graph&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrior-graph&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrior-graph)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **warrior-graph/warrior-graph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
